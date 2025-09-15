@@ -7,10 +7,14 @@ cd react-frontend
 npm i
 npm start
 ```
-Default API: `http://localhost:1337/api`. Override with `.env`:
+Default API: `http://localhost:1337/api`. Override with - cp .env.example .env:
 ```
 REACT_APP_API_URL=http://localhost:1337/api
 ```
+## APIs end-points
+1- Get Mood Entries = GET /mood-entries
+2- Get Teams = GET /teams
+3- Create Mood Entries = Post /mood-entries
 
 ## Features
 - Submit mood (username, mood, comment, optional team)
