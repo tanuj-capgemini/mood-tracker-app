@@ -1,5 +1,5 @@
 
-# Mood Tracker – REACT (CRA) + TypeScript
+# React-frontend – REACT (CRA) + TypeScript
 
 ## Quick start
 ```bash
