@@ -11,7 +11,7 @@ This is a **fullstack mood tracking application** built using:
 
 ### Step - 1
 Download the zip file from the above "react-frontend.zip" and "strapi-backend.zip" option, \
-Follow the repository path by: 
+Follow the repository path by: ### https://github.com/tanuj-capgemini/mood-tracker-app.git
 
 ### Step - 2
 Extact these zip project directory, run the command "npm install" on the command prompt to install the dependencies of the project on your local machine.
