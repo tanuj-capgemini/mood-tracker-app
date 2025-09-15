@@ -21,6 +21,17 @@ Run the project on the localhost by running "npm start" for "react-frontend" on 
 Great!! 😃 You are done with the setup part. 🚀
 Now, open **http://localhost:3000** to view it in your browser.
 
+Snapshots for frontend app: <img width="958" height="444" alt="image" src="https://github.com/user-attachments/assets/20bb7ba6-cd73-4057-935a-eda354d81a76" />
+
+<img width="773" height="358" alt="image" src="https://github.com/user-attachments/assets/f60b02be-01bf-4a74-9557-46e36a503f12" />
+
+
+
 Run the project on the localhost by running "npm run develop" for "strapi-backend" on the command prompt.
 Great!! 😃 You are done with the setup part. 🚀
 Now, open **http://localhost:1337** to view it in your browser.
+
+Snapshots for frontend app: STRAPI-UI:: <img width="959" height="525" alt="image" src="https://github.com/user-attachments/assets/a23ed82e-da04-4f82-a8ae-afdc05a2c1ff" />
+
+PostgreSQL (pg Admin 4): <img width="959" height="566" alt="image" src="https://github.com/user-attachments/assets/2ee7e770-267a-4871-8166-9cc112620ddf" />
+
